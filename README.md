@@ -6,7 +6,8 @@ Instructions
 
     Fork this repository
     Clone it
-    Create a branch named ft_name (name = your name)
+    Create a branch named ft_name (name = your name)Numpy and Pandas Challenges
+    Duplicate the notebook. (Numpy and Pandas Challenges-yourname)
     Start writing your code This includes the jupyter notebook that has the week's assignments.
     Push your work to the repository (follow the link in the curriculum document)
     Make a pull request
